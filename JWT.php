@@ -1,4 +1,11 @@
 <?php
+/**
+*
+* PHP-JWT PHP Class
+* by: Hélder Correia
+*
+*
+*/
 
 namespace JWT;
 
